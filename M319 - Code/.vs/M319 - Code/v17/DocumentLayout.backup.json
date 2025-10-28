@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive - TBZ\\Github\\Nicolas-Joel---M320\\M319 - Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4421321-E809-4C9C-B175-3B191AE33249}|M319\\M319.csproj|c:\\users\\nicol\\onedrive - tbz\\github\\nicolas-joel---m320\\m319 - code\\m319\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4421321-E809-4C9C-B175-3B191AE33249}|M319\\M319.csproj|solutionrelative:m319\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive - TBZ\\Github\\Nicolas-Joel---M320\\M319 - Code\\M319\\Program.cs",
+              "RelativeDocumentMoniker": "M319\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive - TBZ\\Github\\Nicolas-Joel---M320\\M319 - Code\\M319\\Program.cs",
+              "RelativeToolTip": "M319\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:19:11.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

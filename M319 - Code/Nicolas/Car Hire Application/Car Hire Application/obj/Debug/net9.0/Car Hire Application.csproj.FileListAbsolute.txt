@@ -1,0 +1,15 @@
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\bin\Debug\net9.0\Car Hire Application.exe
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\bin\Debug\net9.0\Car Hire Application.deps.json
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\bin\Debug\net9.0\Car Hire Application.runtimeconfig.json
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\bin\Debug\net9.0\Car Hire Application.dll
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\bin\Debug\net9.0\Car Hire Application.pdb
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.AssemblyInfoInputs.cache
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.AssemblyInfo.cs
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.csproj.CoreCompileInputs.cache
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.sourcelink.json
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.dll
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\refint\Car Hire Application.dll
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.pdb
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\Car Hire Application.genruntimeconfig.cache
+C:\Users\nicol\RiderProjects\Car Hire Application\Car Hire Application\obj\Debug\net9.0\ref\Car Hire Application.dll

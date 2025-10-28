@@ -1,0 +1,15 @@
+C:\Users\nicol\RiderProjects\House-Project\House-Project\bin\Debug\net9.0\House-Project.exe
+C:\Users\nicol\RiderProjects\House-Project\House-Project\bin\Debug\net9.0\House-Project.deps.json
+C:\Users\nicol\RiderProjects\House-Project\House-Project\bin\Debug\net9.0\House-Project.runtimeconfig.json
+C:\Users\nicol\RiderProjects\House-Project\House-Project\bin\Debug\net9.0\House-Project.dll
+C:\Users\nicol\RiderProjects\House-Project\House-Project\bin\Debug\net9.0\House-Project.pdb
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.AssemblyInfoInputs.cache
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.AssemblyInfo.cs
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.csproj.CoreCompileInputs.cache
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.sourcelink.json
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.dll
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\refint\House-Project.dll
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.pdb
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\House-Project.genruntimeconfig.cache
+C:\Users\nicol\RiderProjects\House-Project\House-Project\obj\Debug\net9.0\ref\House-Project.dll
