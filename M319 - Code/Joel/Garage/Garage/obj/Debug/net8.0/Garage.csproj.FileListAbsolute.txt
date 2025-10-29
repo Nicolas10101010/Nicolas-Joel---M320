@@ -1,0 +1,14 @@
+C:\Users\joel.bandle\source\repos\Garage\Garage\bin\Debug\net8.0\Garage.exe
+C:\Users\joel.bandle\source\repos\Garage\Garage\bin\Debug\net8.0\Garage.deps.json
+C:\Users\joel.bandle\source\repos\Garage\Garage\bin\Debug\net8.0\Garage.runtimeconfig.json
+C:\Users\joel.bandle\source\repos\Garage\Garage\bin\Debug\net8.0\Garage.dll
+C:\Users\joel.bandle\source\repos\Garage\Garage\bin\Debug\net8.0\Garage.pdb
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.AssemblyInfoInputs.cache
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.AssemblyInfo.cs
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.csproj.CoreCompileInputs.cache
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.dll
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\refint\Garage.dll
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.pdb
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\Garage.genruntimeconfig.cache
+C:\Users\joel.bandle\source\repos\Garage\Garage\obj\Debug\net8.0\ref\Garage.dll

@@ -1,0 +1,10 @@
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.Form1.resources
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.Properties.Resources.resources
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.csproj.GenerateResource.cache
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\House2\House2\bin\Debug\House2.exe.config
+C:\Users\joelb\source\repos\House2\House2\bin\Debug\House2.exe
+C:\Users\joelb\source\repos\House2\House2\bin\Debug\House2.pdb
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.exe
+C:\Users\joelb\source\repos\House2\House2\obj\Debug\House2.pdb

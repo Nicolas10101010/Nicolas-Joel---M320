@@ -1,0 +1,14 @@
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\bin\Debug\net8.0\TestCalculator.exe
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\bin\Debug\net8.0\TestCalculator.deps.json
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\bin\Debug\net8.0\TestCalculator.runtimeconfig.json
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\bin\Debug\net8.0\TestCalculator.dll
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\bin\Debug\net8.0\TestCalculator.pdb
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.AssemblyInfoInputs.cache
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.AssemblyInfo.cs
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.dll
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\refint\TestCalculator.dll
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.pdb
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\TestCalculator.genruntimeconfig.cache
+C:\Users\joelb\source\repos\TestCalculator\TestCalculator\obj\Debug\net8.0\ref\TestCalculator.dll
