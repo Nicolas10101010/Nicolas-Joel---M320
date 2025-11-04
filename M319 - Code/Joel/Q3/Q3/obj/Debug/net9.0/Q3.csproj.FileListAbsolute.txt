@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\bin\Debug\net9.0\Q3.exe
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\bin\Debug\net9.0\Q3.deps.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\bin\Debug\net9.0\Q3.runtimeconfig.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\bin\Debug\net9.0\Q3.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\bin\Debug\net9.0\Q3.pdb
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.AssemblyInfo.cs
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.sourcelink.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\refint\Q3.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.pdb
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\Q3.genruntimeconfig.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Q3\Q3\obj\Debug\net9.0\ref\Q3.dll

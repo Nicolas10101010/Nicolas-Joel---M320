@@ -27,3 +27,18 @@ C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Cip
 C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.pdb
 C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.genruntimeconfig.cache
 C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\ref\CipherSolver.dll
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\bin\Debug\net9.0\CipherSolver.exe
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\bin\Debug\net9.0\CipherSolver.deps.json
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\bin\Debug\net9.0\CipherSolver.runtimeconfig.json
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\bin\Debug\net9.0\CipherSolver.dll
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\bin\Debug\net9.0\CipherSolver.pdb
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.AssemblyInfoInputs.cache
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.AssemblyInfo.cs
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.csproj.CoreCompileInputs.cache
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.sourcelink.json
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.dll
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\refint\CipherSolver.dll
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.pdb
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\CipherSolver.genruntimeconfig.cache
+C:\Nicolas-Joel---M320\M319 - Code\Nicolas\CipherSolver\CipherSolver\obj\Debug\net9.0\ref\CipherSolver.dll
