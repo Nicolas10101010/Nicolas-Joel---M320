@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.AssemblyInfo.cs
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.sourcelink.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\bin\Debug\net9.0\Schach.exe
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\bin\Debug\net9.0\Schach.deps.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\bin\Debug\net9.0\Schach.runtimeconfig.json
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\bin\Debug\net9.0\Schach.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\bin\Debug\net9.0\Schach.pdb
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\refint\Schach.dll
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.pdb
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\Schach.genruntimeconfig.cache
+C:\Users\nicol\OneDrive - TBZ\Github\Nicolas-Joel---M320\M319 - Code\Nicolas\Schach\Schach\obj\Debug\net9.0\ref\Schach.dll
